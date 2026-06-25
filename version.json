@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Chapter navigation moved out of the toolbar into a reliable footer under the page — Previous / 'Chapter X of N' / Next, dims at the ends. ⌘⌥↑/↓ now in the Chapter menu."
+  "notes": "Binder shows when a chapter/project was last edited instead of a word count."
 }
