@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Redesigned Home: gradient hero, rotating writer quote, quick-start cards, recents grid, accent glow."
+  "notes": "Home quick-start cards: New Manuscript, Continue Writing (resume latest), Name Generator."
 }
