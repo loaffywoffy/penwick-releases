@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Page numbers: footer toggle to show/hide them and to choose whether the first page is numbered. Versioning restarted at 1.0.0."
+  "notes": "Continue Writing card now shows only the first few words of the chapter, not the whole pasted text"
 }
