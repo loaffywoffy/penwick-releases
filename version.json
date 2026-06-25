@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.2.0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Page numbers on by default for new projects"
+  "notes": "Home redesign: live writing stats, a project library with covers, recent chapters with word counts, and a tools strip (generator, history, export, collaborate, settings)"
 }
