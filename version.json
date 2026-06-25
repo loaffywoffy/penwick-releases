@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Page number styling: add colour, reuse the main font picker (recommended + all fonts, shown in their own typeface)"
+  "notes": "Page-number style (show, font, size, colour) is now saved per project instead of shared across all projects"
 }
