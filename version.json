@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "1.0.0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Pages are pure white again; text/caret render dark on the page even in dark mode"
+  "notes": "Page numbers: footer toggle to show/hide them and to choose whether the first page is numbered. Versioning restarted at 1.0.0."
 }
