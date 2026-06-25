@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
+  "version": "2.0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "True paginated pages — content now flows across separate page-sized sheets like Word/Pages"
+  "notes": "Font/style chosen on a selection now sticks: select-all, change font, delete everything, and new typing keeps the chosen font"
 }
