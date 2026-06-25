@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Binder shows when a chapter/project was last edited instead of a word count."
+  "notes": "New Project button at the bottom of the sidebar."
 }
