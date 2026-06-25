@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Home redesign: live writing stats, a project library with covers, recent chapters with word counts, and a tools strip (generator, history, export, collaborate, settings)"
+  "notes": "Fix white-on-white text: pages are white, so near-white/invisible body text is now rescued to dark, and the default typing colour is dark"
 }
