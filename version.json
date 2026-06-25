@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Continue Writing card now shows only the first few words of the chapter, not the whole pasted text"
+  "notes": "Click a page number to set its font and size in a popover"
 }
