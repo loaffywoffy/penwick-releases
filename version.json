@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Font/style chosen on a selection now sticks: select-all, change font, delete everything, and new typing keeps the chosen font"
+  "notes": "Pages are pure white again; text/caret render dark on the page even in dark mode"
 }
