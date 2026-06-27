@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Empty trailing pages now auto-delete when you remove their text"
+  "notes": "Revert 1.4.1 page auto-delete change (it made page handling worse)"
 }
