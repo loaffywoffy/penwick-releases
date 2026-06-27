@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Fix white-on-white text: pages are white, so near-white/invisible body text is now rescued to dark, and the default typing colour is dark"
+  "notes": "New projects now prompt you to name them (avoids Untitled clutter)"
 }
