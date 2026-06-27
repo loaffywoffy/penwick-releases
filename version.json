@@ -1,5 +1,5 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Fix flaky pagination: account for the trailing empty-line fragment so new pages aren't wrongly deleted and empty pages are removed reliably"
+  "notes": "Rewrite pagination: deterministic page count measured on an isolated layout manager (fixes Enter-at-bottom new-page, empty-page removal, oscillation) + caret no longer strands across pages in list auto-continue"
 }
