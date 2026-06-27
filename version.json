@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Use native macOS/iOS-style sheets and alerts (generator, version history, settings, new-project namer) instead of custom overlays"
+  "notes": "Empty trailing pages now auto-delete when you remove their text"
 }
