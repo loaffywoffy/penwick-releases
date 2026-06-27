@@ -2,5 +2,5 @@
   "code": "50becd28923886a0a0b2fd8ad284e6a9",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Switched to opaque build codes instead of version numbers; cleaned up unused files"
+  "notes": "Branded DMG installer window (background, arrow, instructions)"
 }
