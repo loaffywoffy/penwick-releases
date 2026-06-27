@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Fix double/ghost caret (removed custom caret drawing; caret stays accent-blue via the system)"
+  "notes": "Revert custom mouse cursor — back to the standard system text cursor (kept blue theme + scroll)"
 }
