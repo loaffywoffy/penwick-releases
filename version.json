@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Revert 1.4.1 page auto-delete change (it made page handling worse)"
+  "notes": "Default theme now Ocean (blue); hand-crafted touches: custom inked text cursor, accent caret, snappier mouse-wheel scroll"
 }
