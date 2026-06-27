@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Revert custom mouse cursor — back to the standard system text cursor (kept blue theme + scroll)"
+  "notes": "Tighten line/paragraph spacing (and fix existing docs); revert accent caret + custom scroll to 1.4.0 behavior; keep blue theme"
 }
