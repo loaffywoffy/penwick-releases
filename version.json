@@ -1,5 +1,6 @@
 {
-  "version": "1.5.5",
+  "version": "1.6.0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Rewrite pagination: deterministic page count measured on an isolated layout manager (fixes Enter-at-bottom new-page, empty-page removal, oscillation) + caret no longer strands across pages in list auto-continue"
+  "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
+  "notes": "Download is now a .dmg; app removes stray duplicate copies of itself (to Trash) on launch"
 }
