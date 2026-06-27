@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Default theme now Ocean (blue); hand-crafted touches: custom inked text cursor, accent caret, snappier mouse-wheel scroll"
+  "notes": "Fix double/ghost caret (removed custom caret drawing; caret stays accent-blue via the system)"
 }
