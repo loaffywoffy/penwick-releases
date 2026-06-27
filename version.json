@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
-  "notes": "Tighten line/paragraph spacing (and fix existing docs); revert accent caret + custom scroll to 1.4.0 behavior; keep blue theme"
+  "notes": "Fix flaky pagination: account for the trailing empty-line fragment so new pages aren't wrongly deleted and empty pages are removed reliably"
 }
