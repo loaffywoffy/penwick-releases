@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
+  "code": "50becd28923886a0a0b2fd8ad284e6a9",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Download is now a .dmg; app removes stray duplicate copies of itself (to Trash) on launch"
+  "notes": "Switched to opaque build codes instead of version numbers; cleaned up unused files"
 }
