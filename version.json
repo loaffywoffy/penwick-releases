@@ -1,6 +1,6 @@
 {
-  "code": "a588c3783ad2ded236ae0f6348acfd4d",
+  "code": "cee71faa226e1385fd5c141eb25a2bd8",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Ocean is the only theme; added hover lift + Home fade-in animations; Ollama now auto-sets-up (detects/launches and picks a model)"
+  "notes": "Floating AI chat (corner button): chat, or select text and approve an edit that keeps your font. Fixed the update-loop (cache-busted). Removed Show Files in Finder."
 }
