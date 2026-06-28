@@ -1,6 +1,6 @@
 {
-  "code": "cee71faa226e1385fd5c141eb25a2bd8",
+  "code": "36ce728a224f93673cd63f5c34d90b3d",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Floating AI chat (corner button): chat, or select text and approve an edit that keeps your font. Fixed the update-loop (cache-busted). Removed Show Files in Finder."
+  "notes": "UX cleanup: removed duplicate Insert Image/Add Comment from Tools (they're in the format bar); replaced the misleading Home Page-numbers tile with AI assistant; tidied dead settings"
 }
