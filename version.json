@@ -1,6 +1,6 @@
 {
-  "code": "ca2cefa4482af1f14893d095f8a132b8",
+  "code": "53ce0d1639e176eaea7bfc2312b269bf",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Collaborate: an Accepting-collaborators switch (code is off until you turn it on) and codes now expire after 5 minutes; clearer iCloud-access wording"
+  "notes": "Comments show instantly on hover (with a hold-⌘ hint); hold ⌘ over a comment to read it full, reply, or delete; Ollama now picks a model that's actually installed"
 }
