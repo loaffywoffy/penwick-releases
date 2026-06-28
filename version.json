@@ -1,6 +1,6 @@
 {
-  "code": "6a755bbf093e50c7812ca29273d375e1",
+  "code": "fed2f5bf6ae0bc59c150085576431ca9",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI: chat persists when you close/reopen the panel; branded as Penwick's assistant; separate key+model per provider (Claude vs ChatGPT); friendlier setup state"
+  "notes": "Removed image insert (was unreliable); roomier Settings with friendlier 'connect your account' AI setup + Get-a-key links; AI edits keep the original font"
 }
