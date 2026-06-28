@@ -1,6 +1,6 @@
 {
-  "code": "59ea1a8ab83ffd165752aea238794bf4",
+  "code": "c7c089481cd54aea50f3db32d7985fa7",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Polish: imported files keep their images; comments re-anchor to their quoted text after edits"
+  "notes": "Images fit the whole page (no crop) and flow to a page with room + right-click to resize; comment & image buttons in the toolbar; hover highlighted text to read its comment"
 }
