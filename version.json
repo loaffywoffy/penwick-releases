@@ -1,6 +1,6 @@
 {
-  "code": "12e842d498ffadfc480a2432998abee4",
+  "code": "4101b5b2a742555f1ae62fc41c2327c3",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Apple design language in the app: Action Blue accent, parchment/white surfaces, pill CTAs, Apple-style Home"
+  "notes": "Default for new users: ship the Welcome to Penwick sample manuscript on first launch"
 }
