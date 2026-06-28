@@ -1,6 +1,6 @@
 {
-  "code": "c7c089481cd54aea50f3db32d7985fa7",
+  "code": "f5dfa2ebb7c19c53445ced7d4d0a2522",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Images fit the whole page (no crop) and flow to a page with room + right-click to resize; comment & image buttons in the toolbar; hover highlighted text to read its comment"
+  "notes": "Checklist mode: toolbar/⌘⇧9 to make a checklist; click a box to tick it (strikes + dims the line); Return continues it"
 }
