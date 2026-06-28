@@ -1,6 +1,6 @@
 {
-  "code": "585cd8d52135d53b462579c50dbbc405",
+  "code": "198845f95630d1ec260c2c039bd19fb1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Default sample now teaches emojis + has its own; drag in .md/.txt/.docx/etc to add as a new or current chapter"
+  "notes": "Fix: default sample emoji tags now write correctly"
 }
