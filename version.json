@@ -1,6 +1,6 @@
 {
-  "code": "198845f95630d1ec260c2c039bd19fb1",
+  "code": "ecf9c999aca7194a7242d8c14711c91f",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Fix: default sample emoji tags now write correctly"
+  "notes": "Insert images: Tools → Insert Image, or paste/drag images into a page (scaled to fit); saved with the chapter"
 }
