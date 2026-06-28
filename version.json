@@ -1,6 +1,6 @@
 {
-  "code": "c9602abfb1c4bcd6a6418c2410248a5a",
+  "code": "585cd8d52135d53b462579c50dbbc405",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Manuscripts can have emojis too — right-click a project → Set Emoji; shown in the sidebar header"
+  "notes": "Default sample now teaches emojis + has its own; drag in .md/.txt/.docx/etc to add as a new or current chapter"
 }
