@@ -1,6 +1,6 @@
 {
-  "code": "ecf9c999aca7194a7242d8c14711c91f",
+  "code": "40a68d6e6f89c429beb9cf743f5a9747",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Insert images: Tools → Insert Image, or paste/drag images into a page (scaled to fit); saved with the chapter"
+  "notes": "Comments / margin notes: select text → Tools → Add Comment; highlighted in yellow; manage in Tools → Comments"
 }
