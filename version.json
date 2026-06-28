@@ -1,6 +1,6 @@
 {
-  "code": "c67cb0f3f63836a5a6bde9e964f31f1e",
+  "code": "c9602abfb1c4bcd6a6418c2410248a5a",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Per-document emojis (right-click a chapter → Set Emoji); room codes now use the full word list; joining requires host approval"
+  "notes": "Manuscripts can have emojis too — right-click a project → Set Emoji; shown in the sidebar header"
 }
