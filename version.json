@@ -1,6 +1,6 @@
 {
-  "code": "f5dfa2ebb7c19c53445ced7d4d0a2522",
+  "code": "b4dbf448f702bd3a91b9f7545b3124f8",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Checklist mode: toolbar/⌘⇧9 to make a checklist; click a box to tick it (strikes + dims the line); Return continues it"
+  "notes": "Comment hover: after a beat, a floating bubble shows the note and follows your cursor"
 }
