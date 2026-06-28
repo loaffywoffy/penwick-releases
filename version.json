@@ -1,6 +1,6 @@
 {
-  "code": "b4dbf448f702bd3a91b9f7545b3124f8",
+  "code": "a44cf7edc56b437b4a9b0ea388951786",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Comment hover: after a beat, a floating bubble shows the note and follows your cursor"
+  "notes": "Quick font-size −/+ buttons in the toolbar; bullet/numbered/checklist now toggle and light up when active"
 }
