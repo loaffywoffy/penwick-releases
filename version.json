@@ -1,6 +1,6 @@
 {
-  "code": "a44cf7edc56b437b4a9b0ea388951786",
+  "code": "3f9d775d95a4810dd2c3fa706dcd9770",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Quick font-size −/+ buttons in the toolbar; bullet/numbered/checklist now toggle and light up when active"
+  "notes": "Name generator: a Funny button for silly comedy names; Home now shows the real page count (no more ~estimate)"
 }
