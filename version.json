@@ -1,6 +1,6 @@
 {
-  "code": "b3b9bf8d7755b80acfd3c87aa1551464",
+  "code": "c67cb0f3f63836a5a6bde9e964f31f1e",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Collaborate with a memorable 3-word room code (e.g. TAN-ARM-HER); join by code auto-finds the shared project"
+  "notes": "Per-document emojis (right-click a chapter → Set Emoji); room codes now use the full word list; joining requires host approval"
 }
