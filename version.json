@@ -1,6 +1,6 @@
 {
-  "code": "53ce0d1639e176eaea7bfc2312b269bf",
+  "code": "3e75f552792e06ffabb9e6cfed1f260c",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Comments show instantly on hover (with a hold-⌘ hint); hold ⌘ over a comment to read it full, reply, or delete; Ollama now picks a model that's actually installed"
+  "notes": "Autocorrect (picks the single best fix as you finish a word; toggle in Settings); hold ⌘ over a comment — an accelerating bar fills, then the reply/delete card opens"
 }
