@@ -1,6 +1,6 @@
 {
-  "code": "a828467b6eb6f53d88002d61478a3912",
+  "code": "6a755bbf093e50c7812ca29273d375e1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI moved into the format bar (sparkles) — no floating button; the sidebar now remembers which manuscripts you expanded/collapsed across restarts"
+  "notes": "AI: chat persists when you close/reopen the panel; branded as Penwick's assistant; separate key+model per provider (Claude vs ChatGPT); friendlier setup state"
 }
