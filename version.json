@@ -1,6 +1,6 @@
 {
-  "code": "52d43bf957ee0b8e4f2b8754cd6eab59",
+  "code": "a588c3783ad2ded236ae0f6348acfd4d",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Link an AI in Settings (Anthropic/OpenAI API key, or free local Ollama) with a connection test; Tools → Continue with AI. Removed funny names."
+  "notes": "Ocean is the only theme; added hover lift + Home fade-in animations; Ollama now auto-sets-up (detects/launches and picks a model)"
 }
