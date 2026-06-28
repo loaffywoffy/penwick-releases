@@ -1,6 +1,6 @@
 {
-  "code": "fed2f5bf6ae0bc59c150085576431ca9",
+  "code": "ca2cefa4482af1f14893d095f8a132b8",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Removed image insert (was unreliable); roomier Settings with friendlier 'connect your account' AI setup + Get-a-key links; AI edits keep the original font"
+  "notes": "Collaborate: an Accepting-collaborators switch (code is off until you turn it on) and codes now expire after 5 minutes; clearer iCloud-access wording"
 }
