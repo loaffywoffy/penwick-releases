@@ -1,6 +1,6 @@
 {
-  "code": "6debc68d6c67ae48cb18b164d5b4901e",
+  "code": "ba7dca5e7708095695065d621d465057",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Comment ⌘-hold works every time now (popover resets on close); the bar smoothly retracts if you let go early"
+  "notes": "AI can now edit multiple sections at once — it scans the whole chapter and proposes every change as one approve-all card (font kept)."
 }
