@@ -1,6 +1,6 @@
 {
-  "code": "0d479ffa2385ac4dc2eb95e828a4b758",
+  "code": "89572ba3a605e0e8b59ea913b7490487",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Custom Find & Replace (⌘F) — our own panel with match count, prev/next, match-case, replace & replace all (keeps your font)."
+  "notes": "AI chat now stays saved between sessions, and the assistant only edits when you actually ask — questions get answers, not forced edits. Friendlier error messages too."
 }
