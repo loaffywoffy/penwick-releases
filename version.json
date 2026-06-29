@@ -1,6 +1,6 @@
 {
-  "code": "3e75f552792e06ffabb9e6cfed1f260c",
+  "code": "6debc68d6c67ae48cb18b164d5b4901e",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Autocorrect (picks the single best fix as you finish a word; toggle in Settings); hold ⌘ over a comment — an accelerating bar fills, then the reply/delete card opens"
+  "notes": "Comment ⌘-hold works every time now (popover resets on close); the bar smoothly retracts if you let go early"
 }
