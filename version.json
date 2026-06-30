@@ -1,6 +1,6 @@
 {
-  "code": "b76375b0e55559256836e71ae2b3fd87",
+  "code": "85c9bdd1f12b287d1cdefa8a2563f069",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Redesigned the AI chat welcome — a warm greeting and tappable starter prompts instead of a wall of grey text."
+  "notes": "Page numbers now have a highlight toggle in the top toolbar (on by default, remembers your style); AI & Find panels are clean solid panels instead of murky blur."
 }
