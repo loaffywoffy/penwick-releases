@@ -1,6 +1,6 @@
 {
-  "code": "89572ba3a605e0e8b59ea913b7490487",
+  "code": "b76375b0e55559256836e71ae2b3fd87",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI chat now stays saved between sessions, and the assistant only edits when you actually ask — questions get answers, not forced edits. Friendlier error messages too."
+  "notes": "Redesigned the AI chat welcome — a warm greeting and tappable starter prompts instead of a wall of grey text."
 }
