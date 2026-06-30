@@ -1,6 +1,6 @@
 {
-  "code": "85c9bdd1f12b287d1cdefa8a2563f069",
+  "code": "d878e02f4e0658de771fa056c7ed04ff",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Page numbers now have a highlight toggle in the top toolbar (on by default, remembers your style); AI & Find panels are clean solid panels instead of murky blur."
+  "notes": "Removed the bottom page-numbers menu — page numbers now live entirely in the top toolbar (click to toggle, right-click for the first-page option)."
 }
