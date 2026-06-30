@@ -1,6 +1,6 @@
 {
-  "code": "a2bc36b7f29e6e5623f949363d49638b",
+  "code": "4ea3df28fb46adb394aebc1a66b3277b",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Click a page number to style it right from the top toolbar (font/size/colour) — no more separate Page Number Style popover."
+  "notes": "Page-number styling now keeps the full toolbar (bold, italic, underline, strike, colour, align) and highlights the numbers while you edit them."
 }
