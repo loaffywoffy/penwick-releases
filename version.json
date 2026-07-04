@@ -1,6 +1,6 @@
 {
-  "code": "1fef136fb86231b4788b6004acaacfbc",
+  "code": "7a7bf5ed1bbea2aaf4ec89d75318f5d1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI now defaults to Apple Intelligence (free, private, on-device); emoji picker has a + for any custom emoji."
+  "notes": "AI chat now saves per project — each manuscript keeps its own conversation."
 }
