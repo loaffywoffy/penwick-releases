@@ -1,6 +1,6 @@
 {
-  "code": "529659f39b9cbaab1b5f86ee63c0d248",
+  "code": "b3e565ba5702293b69eacaaca441892f",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Ollama settings now let you pick or type which model to use (with a menu of your installed ones), not just the URL."
+  "notes": "AI keeps chat replies short (long only when actually writing), and bubbles now render markdown instead of showing raw ** characters."
 }
