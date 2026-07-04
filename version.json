@@ -1,6 +1,6 @@
 {
-  "code": "b378bd39cbf29a5303d0d4077cfd1915",
+  "code": "ccbd31b2ec51fb216d809e06828952ce",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI chat now opens pinned to the newest message instead of the top."
+  "notes": "Before the AI applies any edit, Penwick saves a version snapshot of your writing first — so you can always restore it from Version History."
 }
