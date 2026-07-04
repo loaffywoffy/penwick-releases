@@ -1,6 +1,6 @@
 {
-  "code": "4ea3df28fb46adb394aebc1a66b3277b",
+  "code": "1fef136fb86231b4788b6004acaacfbc",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Page-number styling now keeps the full toolbar (bold, italic, underline, strike, colour, align) and highlights the numbers while you edit them."
+  "notes": "AI now defaults to Apple Intelligence (free, private, on-device); emoji picker has a + for any custom emoji."
 }
