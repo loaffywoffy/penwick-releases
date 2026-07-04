@@ -1,6 +1,6 @@
 {
-  "code": "ccbd31b2ec51fb216d809e06828952ce",
+  "code": "3c02d61825f548b64c46c2ae6fee7066",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Before the AI applies any edit, Penwick saves a version snapshot of your writing first — so you can always restore it from Version History."
+  "notes": "Penwick now saves your in-progress writing whenever the app quits, so a relaunch never loses what you were typing."
 }
