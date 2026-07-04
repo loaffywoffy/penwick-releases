@@ -1,6 +1,6 @@
 {
-  "code": "7a7bf5ed1bbea2aaf4ec89d75318f5d1",
+  "code": "9ed71e071d6f4f54df1be17587952168",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI chat now saves per project — each manuscript keeps its own conversation."
+  "notes": "AI now just chats by default (real answers + ideas) and only proposes edits when you clearly ask to change the text."
 }
