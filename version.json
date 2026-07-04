@@ -1,6 +1,6 @@
 {
-  "code": "9ed71e071d6f4f54df1be17587952168",
+  "code": "529659f39b9cbaab1b5f86ee63c0d248",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI now just chats by default (real answers + ideas) and only proposes edits when you clearly ask to change the text."
+  "notes": "Ollama settings now let you pick or type which model to use (with a menu of your installed ones), not just the URL."
 }
