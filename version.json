@@ -1,6 +1,6 @@
 {
-  "code": "b3e565ba5702293b69eacaaca441892f",
+  "code": "b378bd39cbf29a5303d0d4077cfd1915",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI keeps chat replies short (long only when actually writing), and bubbles now render markdown instead of showing raw ** characters."
+  "notes": "AI chat now opens pinned to the newest message instead of the top."
 }
