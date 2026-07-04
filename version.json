@@ -1,6 +1,6 @@
 {
-  "code": "3c02d61825f548b64c46c2ae6fee7066",
+  "code": "2c71c758f68592c328ee301beabf0229",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Penwick now saves your in-progress writing whenever the app quits, so a relaunch never loses what you were typing."
+  "notes": "Cleaner key field — when linked it shows a tidy 'Secret key' row with a Linked badge instead of a stray 'Paste your secret key here' label."
 }
