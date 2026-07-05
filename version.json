@@ -1,6 +1,6 @@
 {
-  "code": "7b99182eac2436ff363e5c12fa830217",
+  "code": "ea82b47bada50598aa1c0bba9cab05fe",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Cleaned up the model dropdown — grouped under 'Cloud' and 'On your Mac' headers instead of repeating 'offline' on every row."
+  "notes": "Grounded the chat prompt so the AI answers normally and helpfully instead of being theatrical/evasive (verified against qwen2.5)."
 }
