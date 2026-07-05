@@ -1,6 +1,6 @@
 {
-  "code": "f04e3e6daff11cad8e26bbfa31004146",
+  "code": "dfb1cf991021c78c5927f61b059f99c8",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Model dropdown trimmed to: cheapest Claude, cheapest ChatGPT, and every model you have installed in Ollama (listed automatically), plus Off."
+  "notes": "Fixed the local model list — it now loads fast the moment Settings opens, so all your installed Ollama models show up in the dropdown."
 }
