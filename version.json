@@ -1,6 +1,6 @@
 {
-  "code": "3c591ad1eb3212c4504622dcba88f521",
+  "code": "80afc8984c925274da33a8adf74e425b",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI reply bubbles now use iMessage-style grey (proper received-bubble colour), your messages stay blue on the right."
+  "notes": "Fixed chat bubble placement — short messages now pin to their side (you right, AI left) instead of floating to the middle."
 }
