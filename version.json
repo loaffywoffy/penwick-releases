@@ -1,6 +1,6 @@
 {
-  "code": "2c946c4920d8ea920eabc14d77954a45",
+  "code": "ff29e3723ed35ce1cfd917f8958192c3",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Prettier chat bubbles (proper chat shapes, clear colours, sparkle avatar) and AI always uses Apple Intelligence when on."
+  "notes": "Added: writing streak + daily goal ring + heatmap, loose chapters, move chapters between books, story notes (characters/places/lore), named snapshots with compare/diff, and confetti when you hit your goal."
 }
