@@ -1,6 +1,6 @@
 {
-  "code": "d111c390a6a8d618fe6e1509348ee6b5",
+  "code": "2bc8252f7f26e36dc845a95612c79fbb",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI is now a simple on/off switch (Apple Intelligence, no keys/menus); redesigned prettier chat; and fixed the font resetting to New York when you move to a new page."
+  "notes": "Custom colour swatch grid (no more system colour panel); animated chat messages; and opened 20 feature ideas for the home screen."
 }
