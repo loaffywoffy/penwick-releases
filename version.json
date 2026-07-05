@@ -1,6 +1,6 @@
 {
-  "code": "3f1ec70edb79595a71653c456b61b023",
+  "code": "e0a22ab440d4fff6fb7a3e074d5ac7e4",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "New Chapter is now context-aware: from the home screen it makes a loose page; inside a manuscript it adds a chapter to that manuscript."
+  "notes": "Added Trash & restore for deleted chapters, pin favourite chapters to the top of the binder, custom per-book word goals, and Talk-to-your-characters role-play in the AI chat."
 }
