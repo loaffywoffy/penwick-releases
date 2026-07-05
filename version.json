@@ -1,6 +1,6 @@
 {
-  "code": "dc51a3c90111ca2e6c1d72549cc590e6",
+  "code": "b94a3f95cb3b8e197e1b2442c08bb542",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Brought back model choice (Apple Intelligence, Gemma-local, Claude, ChatGPT). Gemma runs offline; selecting it auto-offers a one-tap install. Cleaner setup — no more URL field."
+  "notes": "Local model now uses whatever you already have installed (qwen, gemma, llama…) instead of demanding Gemma — with a picker to switch, and Install Gemma only if you have nothing."
 }
