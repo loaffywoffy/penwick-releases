@@ -1,6 +1,6 @@
 {
-  "code": "d81330113030ff63f1555ee0d3030b2f",
+  "code": "dd7c40585bf59cd1183270c9b33ba34d",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "The 'talk to a character' masks button is now always visible in the AI chat — if you have no characters it points you to Story Notes to add one."
+  "notes": "Talk-to-characters now: learns each character's voice from your actual script, stays fully in character (introduces itself, no meta), and runs as its own separate chat per character."
 }
