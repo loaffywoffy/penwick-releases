@@ -1,6 +1,6 @@
 {
-  "code": "ff29e3723ed35ce1cfd917f8958192c3",
+  "code": "2f8095fd4daca25cdde9abb06f3582df",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Added: writing streak + daily goal ring + heatmap, loose chapters, move chapters between books, story notes (characters/places/lore), named snapshots with compare/diff, and confetti when you hit your goal."
+  "notes": "Story Notes is now a writing-context tool (Tools menu while editing), not on the home screen."
 }
