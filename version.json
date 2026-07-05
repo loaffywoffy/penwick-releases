@@ -1,6 +1,6 @@
 {
-  "code": "b6205cce170ed1fedaa0924676dde37e",
+  "code": "fa78ec18f34a5fca94f1a0fc470161b7",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Added subtle trackpad haptics on key moments (applying an AI edit, hitting your goal, pinning, picking a colour), with an on/off toggle in Settings."
+  "notes": "The AI now decides for itself whether to answer or edit — no more keyword guessing; edits target your selection and actually transform it."
 }
