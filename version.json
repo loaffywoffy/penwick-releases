@@ -1,6 +1,6 @@
 {
-  "code": "2bc8252f7f26e36dc845a95612c79fbb",
+  "code": "2c946c4920d8ea920eabc14d77954a45",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Custom colour swatch grid (no more system colour panel); animated chat messages; and opened 20 feature ideas for the home screen."
+  "notes": "Prettier chat bubbles (proper chat shapes, clear colours, sparkle avatar) and AI always uses Apple Intelligence when on."
 }
