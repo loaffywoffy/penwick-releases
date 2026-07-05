@@ -1,6 +1,6 @@
 {
-  "code": "18cee65200b5e92b6740cd7615f33a3b",
+  "code": "b6205cce170ed1fedaa0924676dde37e",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Custom colour picker (SV square + hue slider + hex/RGB + eyedropper) on the + button, and the AI chat now shows your selected text as a context chip."
+  "notes": "Added subtle trackpad haptics on key moments (applying an AI edit, hitting your goal, pinning, picking a colour), with an on/off toggle in Settings."
 }
