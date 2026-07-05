@@ -1,6 +1,6 @@
 {
-  "code": "fa78ec18f34a5fca94f1a0fc470161b7",
+  "code": "b4bbabbc8d7ce01ffede2d835289192a",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "The AI now decides for itself whether to answer or edit — no more keyword guessing; edits target your selection and actually transform it."
+  "notes": "Icon recoloured to brand blue (#0066CC); AI is smarter — free to make the best edits anywhere, not locked to your exact selection, with robust edit locating."
 }
