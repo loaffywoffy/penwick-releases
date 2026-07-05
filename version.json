@@ -1,6 +1,6 @@
 {
-  "code": "3ed7f4aa70f659b69b4be43a8773082c",
+  "code": "dc51a3c90111ca2e6c1d72549cc590e6",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Rebuilt the whole AI system: clean PenwickAI service, clear Chat / Edit-selection / Character modes, one-tap edit actions (Rewrite, Fix, Shorten, Expand, Punch up), removed all the tangled dead code."
+  "notes": "Brought back model choice (Apple Intelligence, Gemma-local, Claude, ChatGPT). Gemma runs offline; selecting it auto-offers a one-tap install. Cleaner setup — no more URL field."
 }
