@@ -1,6 +1,6 @@
 {
-  "code": "e0a22ab440d4fff6fb7a3e074d5ac7e4",
+  "code": "17482d9f1856e7e8728339ed390aa3c8",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Added Trash & restore for deleted chapters, pin favourite chapters to the top of the binder, custom per-book word goals, and Talk-to-your-characters role-play in the AI chat."
+  "notes": "Loose chapters now sit as standalone chapters at the top of the sidebar — not bundled into a 'Loose Pages' manuscript."
 }
