@@ -1,6 +1,6 @@
 {
-  "code": "a67ef7696a6c6342f8663943bdb38cc0",
+  "code": "01cb15e53c94bf325b56fcc37bb761a5",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "New app icon — serif ampersand on your blue gradient base."
+  "notes": "Dark-mode app icon — the Dock icon switches to a deep-navy variant in dark mode and back to blue in light mode."
 }
