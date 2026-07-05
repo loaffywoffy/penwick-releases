@@ -1,6 +1,6 @@
 {
-  "code": "a67ef7696a6c6342f8663943bdb38cc0",
+  "code": "a6dc84f4967237e0e60dc73213ee2fff",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Reverted dark-mode icon swap — back to the single blue icon."
+  "notes": "AI edits: won't propose a no-op copy anymore (retries, then says so honestly), and ⌘Z now actually undoes an applied AI edit (grouped + focuses the document)."
 }
