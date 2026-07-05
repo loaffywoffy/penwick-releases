@@ -1,6 +1,6 @@
 {
-  "code": "80afc8984c925274da33a8adf74e425b",
+  "code": "d81330113030ff63f1555ee0d3030b2f",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Fixed chat bubble placement — short messages now pin to their side (you right, AI left) instead of floating to the middle."
+  "notes": "The 'talk to a character' masks button is now always visible in the AI chat — if you have no characters it points you to Story Notes to add one."
 }
