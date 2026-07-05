@@ -1,6 +1,6 @@
 {
-  "code": "2c71c758f68592c328ee301beabf0229",
+  "code": "c01dad3ffb9bea4bcee6c58c8d9d54de",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Cleaner key field — when linked it shows a tidy 'Secret key' row with a Linked badge instead of a stray 'Paste your secret key here' label."
+  "notes": "Exported PDFs now break into real US-Letter pages instead of one giant page."
 }
