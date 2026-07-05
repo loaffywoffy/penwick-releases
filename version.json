@@ -1,6 +1,6 @@
 {
-  "code": "ea82b47bada50598aa1c0bba9cab05fe",
+  "code": "36be983a4b430188a335f9bb44e9cad0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Grounded the chat prompt so the AI answers normally and helpfully instead of being theatrical/evasive (verified against qwen2.5)."
+  "notes": "Penwick update"
 }
