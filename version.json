@@ -1,6 +1,6 @@
 {
-  "code": "c01dad3ffb9bea4bcee6c58c8d9d54de",
+  "code": "d111c390a6a8d618fe6e1509348ee6b5",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Exported PDFs now break into real US-Letter pages instead of one giant page."
+  "notes": "AI is now a simple on/off switch (Apple Intelligence, no keys/menus); redesigned prettier chat; and fixed the font resetting to New York when you move to a new page."
 }
