@@ -1,6 +1,6 @@
 {
-  "code": "6f7b3f535b4e5464965fc9963aab04e3",
+  "code": "bb199e48c8d48292d8a64e048ef759bd",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Characters now speak plainly (no quote marks or name labels, fully in character), and you can right-click any message to Copy or Delete it — deleted messages also drop from what the AI remembers."
+  "notes": "Colour picker now uses your exact palette and order (grayscale → vibrant → light-to-dark tints)."
 }
