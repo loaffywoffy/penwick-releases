@@ -1,6 +1,6 @@
 {
-  "code": "ad2f9b0c61d4ee1c1e30a1d208e7227d",
+  "code": "4642cb5f470269b2fffd200192d1b830",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI never dumps raw JSON now (robust parse + no-op filtering); icon deepened to solid brand blue with proper Dock padding."
+  "notes": "AI edits are now bulletproof (selection is rewritten directly, no keyword/JSON matching); character chats save per project and survive quitting."
 }
