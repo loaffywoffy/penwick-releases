@@ -1,6 +1,6 @@
 {
-  "code": "b94a3f95cb3b8e197e1b2442c08bb542",
+  "code": "f04e3e6daff11cad8e26bbfa31004146",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Local model now uses whatever you already have installed (qwen, gemma, llama…) instead of demanding Gemma — with a picker to switch, and Install Gemma only if you have nothing."
+  "notes": "Model dropdown trimmed to: cheapest Claude, cheapest ChatGPT, and every model you have installed in Ollama (listed automatically), plus Off."
 }
