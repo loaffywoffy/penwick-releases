@@ -1,6 +1,6 @@
 {
-  "code": "17482d9f1856e7e8728339ed390aa3c8",
+  "code": "3c591ad1eb3212c4504622dcba88f521",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "App icon is now Ocean Blue to match the brand, not purple."
+  "notes": "AI reply bubbles now use iMessage-style grey (proper received-bubble colour), your messages stay blue on the right."
 }
