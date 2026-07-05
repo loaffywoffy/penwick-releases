@@ -1,6 +1,6 @@
 {
-  "code": "dfb1cf991021c78c5927f61b059f99c8",
+  "code": "7b99182eac2436ff363e5c12fa830217",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Fixed the local model list — it now loads fast the moment Settings opens, so all your installed Ollama models show up in the dropdown."
+  "notes": "Cleaned up the model dropdown — grouped under 'Cloud' and 'On your Mac' headers instead of repeating 'offline' on every row."
 }
