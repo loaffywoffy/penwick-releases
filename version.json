@@ -1,6 +1,6 @@
 {
-  "code": "2f8095fd4daca25cdde9abb06f3582df",
+  "code": "e5143979c56a9ae8555dbce25a3ec820",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Story Notes is now a writing-context tool (Tools menu while editing), not on the home screen."
+  "notes": "Animations: checkmark draws itself + goal ring sweeps up on the home screen; AI edits now type out (typewriter) as they apply."
 }
