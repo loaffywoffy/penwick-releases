@@ -1,6 +1,6 @@
 {
-  "code": "a6dc84f4967237e0e60dc73213ee2fff",
+  "code": "3ed7f4aa70f659b69b4be43a8773082c",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "AI edits: won't propose a no-op copy anymore (retries, then says so honestly), and ⌘Z now actually undoes an applied AI edit (grouped + focuses the document)."
+  "notes": "Rebuilt the whole AI system: clean PenwickAI service, clear Chat / Edit-selection / Character modes, one-tap edit actions (Rewrite, Fix, Shorten, Expand, Punch up), removed all the tangled dead code."
 }
