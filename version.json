@@ -1,6 +1,6 @@
 {
-  "code": "b4bbabbc8d7ce01ffede2d835289192a",
+  "code": "ad2f9b0c61d4ee1c1e30a1d208e7227d",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Icon recoloured to brand blue (#0066CC); AI is smarter — free to make the best edits anywhere, not locked to your exact selection, with robust edit locating."
+  "notes": "AI never dumps raw JSON now (robust parse + no-op filtering); icon deepened to solid brand blue with proper Dock padding."
 }
