@@ -1,6 +1,6 @@
 {
-  "code": "dd7c40585bf59cd1183270c9b33ba34d",
+  "code": "6f7b3f535b4e5464965fc9963aab04e3",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "New hand-made app icon (glossy blue ampersand)."
+  "notes": "Characters now speak plainly (no quote marks or name labels, fully in character), and you can right-click any message to Copy or Delete it — deleted messages also drop from what the AI remembers."
 }
