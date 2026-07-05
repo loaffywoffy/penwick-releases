@@ -1,6 +1,6 @@
 {
-  "code": "01cb15e53c94bf325b56fcc37bb761a5",
+  "code": "a67ef7696a6c6342f8663943bdb38cc0",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Dark-mode app icon — the Dock icon switches to a deep-navy variant in dark mode and back to blue in light mode."
+  "notes": "Reverted dark-mode icon swap — back to the single blue icon."
 }
