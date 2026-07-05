@@ -1,6 +1,6 @@
 {
-  "code": "bb199e48c8d48292d8a64e048ef759bd",
+  "code": "cbbe0c834f8fa113ac25b95f1e846ee1",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Colour picker now uses your exact palette and order (grayscale → vibrant → light-to-dark tints)."
+  "notes": "Renamed 'manuscript' to 'project' throughout the UI."
 }
