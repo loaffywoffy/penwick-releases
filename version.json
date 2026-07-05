@@ -1,6 +1,6 @@
 {
-  "code": "cbbe0c834f8fa113ac25b95f1e846ee1",
+  "code": "18cee65200b5e92b6740cd7615f33a3b",
   "url": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.app.zip",
   "dmg": "https://raw.githubusercontent.com/loaffywoffy/penwick-releases/main/Penwick.dmg",
-  "notes": "Renamed 'manuscript' to 'project' throughout the UI."
+  "notes": "Custom colour picker (SV square + hue slider + hex/RGB + eyedropper) on the + button, and the AI chat now shows your selected text as a context chip."
 }
